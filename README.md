@@ -4,9 +4,12 @@ A retail store chain tracks daily sales transactions, including order details, c
 
 # Problem Statement
 The store doesn’t have a clear idea about :-
-which products sell the most,
-customers preference,
-which items bring in the most profit,and
+Which products sell the most 
+
+Customers preference 
+
+Which items bring in the most profit 
+
 where things are going wrong indelivery or operations. Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
 
 # Why its needs to be solved 
