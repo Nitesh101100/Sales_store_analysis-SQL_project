@@ -17,11 +17,17 @@ Because of this, they aremissing chances to earnmore, losing customers, andmakin
 
 # Why its needs to be solved 
 1.Missed sales opportunity
+
 2.Poor inventory and staffing decisions
+
 3.Increased operational cost 
+
 4.Low customer satisfaction
-5.Inaccurate Business Forcasts 
+
+5.Inaccurate Business Forcasts
+
 Solving this will help increase revenue , improve service quality ,optimize operations 
+
 
 # Stakeholders 
 stakeholders are the people or team who are directly affected by business decision and use sales insights to improve their work and company performance.
