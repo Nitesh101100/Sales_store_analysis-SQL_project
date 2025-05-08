@@ -1,4 +1,4 @@
-﻿USE Youtube_Channel;
+﻿USE SALES_STORE;
 
 CREATE TABLE sales_store (
 transaction_id VARCHAR(15),
