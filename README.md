@@ -22,14 +22,23 @@ stakeholders are the people or team who are directly affected by business decisi
 
 # Business Problems
 1.What are the top 5 most selling products by quantity?
+
 2.Which product are most frequently canceled?
+
 3.What time of the day has the highest number of purchases ?
+
 4.Who are the top 5 highest spending customer?
+
 5.Which product category generates the highest revenue?
+
 6.What are the retun/cancellations rate per product category?
+
 7.What is the most preferred payment mode ?
+
 8.How does age group affect purchasing behavior?
+
 9.What's the monthly sales trends?
+
 10.Are certain groups of genders buying more specific product categories ?
 
 
