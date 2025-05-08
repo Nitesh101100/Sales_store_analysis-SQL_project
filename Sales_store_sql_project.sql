@@ -1,5 +1,4 @@
-﻿USE SQL_PROJECR
-	 ;
+﻿USE SQL_PROJECT;
 
 CREATE TABLE sales_store (
 transaction_id VARCHAR(15),
