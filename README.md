@@ -13,7 +13,7 @@ The store doesn’t have a clear idea about :-
 
 4.Where things are going wrong indelivery or operations ?
 
-Because of this, they aremissing chances to earnmore, losing customers, andmaking poor businessdecisions.
+Because of this, they are missing chances to earn more, losing customers and making poor business decisions.
 
 # Why its needs to be solved 
 1.Missed sales opportunity
